@@ -1,0 +1,15 @@
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.csproj.AssemblyReference.cache
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.AssemblyInfoInputs.cache
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.AssemblyInfo.cs
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.csproj.CoreCompileInputs.cache
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\bin\Debug\net6.0\work_005.exe
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\bin\Debug\net6.0\work_005.deps.json
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\bin\Debug\net6.0\work_005.runtimeconfig.json
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\bin\Debug\net6.0\work_005.dll
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\bin\Debug\net6.0\work_005.pdb
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.dll
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\refint\work_005.dll
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.pdb
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\work_005.genruntimeconfig.cache
+C:\Users\Юра\Desktop\GB\git\homework\homework_008\work_005\obj\Debug\net6.0\ref\work_005.dll
